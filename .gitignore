@@ -1,0 +1,11 @@
+# 1. Ignore everything in the folder
+/*
+
+# 2. DO NOT ignore these 3 specific files 
+# (Replace these with your actual file names!)
+!/gestures.py
+!/handstretch_main.py
+!/dsa.ipynb
+
+# 3. DO NOT ignore the gitignore file itself
+!.gitignore
