@@ -3,8 +3,7 @@
 
 # 2. DO NOT ignore these 3 specific files 
 # (Replace these with your actual file names!)
-!/gestures.py
-!/handstretch_main.py
+!/hand tracking/
 !/cnn_vgg_implementation/
 
 
