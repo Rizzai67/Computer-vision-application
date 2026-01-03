@@ -5,6 +5,11 @@
 # (Replace these with your actual file names!)
 !/gestures.py
 !/handstretch_main.py
+!/data_setup.py
+!/engine.py
+!/model_builder.py
+!/train.py
+!/utils.py
 
 # 3. DO NOT ignore the gitignore file itself
 !.gitignore
