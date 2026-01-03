@@ -5,7 +5,6 @@
 # (Replace these with your actual file names!)
 !/gestures.py
 !/handstretch_main.py
-!/dsa.ipynb
 
 # 3. DO NOT ignore the gitignore file itself
 !.gitignore
