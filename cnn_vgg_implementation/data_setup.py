@@ -5,6 +5,7 @@ from torch.utils.data import DataLoader
 
 #NUM_WORKERS = os.cpu_count()
 NUM_WORKERS=0
+num_bombs=5
 def create_dataloaders(
     train_dir: str, 
     test_dir: str, 
